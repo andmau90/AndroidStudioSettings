@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="db" type="Native" />
       <mapping pattern="topStories" type="PLAIN_TEXT" />
       <mapping pattern="itemRef2" type="PLAIN_TEXT" />
