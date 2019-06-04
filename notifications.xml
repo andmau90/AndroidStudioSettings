@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
-    <notification groupId="Device File Explorer" displayType="STICKY_BALLOON" />
-    <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
