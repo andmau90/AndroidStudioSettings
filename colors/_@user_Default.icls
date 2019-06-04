@@ -4,14 +4,12 @@
     <property name="created">2018-01-25T08:28:09</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-10-19T09:34:01</property>
+    <property name="modified">2019-06-04T12:35:32</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="RIGHT_MARGIN_COLOR" value="" />
   </colors>
@@ -65,7 +63,10 @@
       </value>
     </option>
     <option name="TEXT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
     </option>
   </attributes>
 </scheme>
